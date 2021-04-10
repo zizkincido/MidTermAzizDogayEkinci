@@ -1,2 +1,3 @@
 # MidTermAzizDogayEkinci
-This repository is for Web Programming II lecture's MidTerm
+Hello my name is Aziz.This is my midterm exam.
+
